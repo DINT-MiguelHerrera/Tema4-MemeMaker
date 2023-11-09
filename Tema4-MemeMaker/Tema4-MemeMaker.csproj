@@ -6,6 +6,11 @@
     <RootNamespace>Tema4_MemeMaker</RootNamespace>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>IconoMemeMaker.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IconoMemeMaker.ico" />
+  </ItemGroup>
 
 </Project>
